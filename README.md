@@ -56,7 +56,7 @@ BuildingArea vs Price
 ## Modelling
 
 Evaluation Matrix
- ```bash
+```bash
     +----------+------------+-------------+--------------+--------------+
     |  Model   | MAE        | MSE         | RMSE         |       R2     |
     +----------+------------+-------------+--------------+--------------+
@@ -67,10 +67,10 @@ Evaluation Matrix
     |  Base RF | 0.154578   | 0.043927    |     0.209587 |    0.831360  | 
     | Base SVM | 0.159214   | 0.045543    |     0.213408 |    0.825155  | 
     +----------+------------+-------------+--------------+--------------+
-    ```  
+ ```  
     
-### Conclusion
-Model Machine Learning terbaik untuk memprediksi Harga Properti di Melbourne adalah Random Forest yang sudah melalui proses Hyper Parameter Tuning dengan tingkat akurasi 85%     dan dengan tingkat error yang paling kecil dibanding model machine learning lainnya.
+  ### Conclusion
+  Model Machine Learning terbaik untuk memprediksi Harga Properti di Melbourne adalah Random Forest yang sudah melalui proses Hyper Parameter Tuning dengan tingkat akurasi 85%     dan dengan tingkat error yang paling kecil dibanding model machine learning lainnya.
 
 ## Pipeline Best Model
 ```python
