@@ -16,7 +16,7 @@ Istilah “housing price bubble” atau “harga perumahan yang menggelembung”
 Dalam kondisi seperti ini, tentu akan lebih sulit untuk para vendor atau property owner untuk menentukan harga yang tepat yang sesuai dengan market agar tidak menjual harga properti terlalu mahal sehingga sulit untuk dijual dan juga tidak terlalu murah agar tidak kehilangan profit.
 
 
-## Business Question
+## Business Questions
 - Daerah manakah yang paling affordable?
 - Daerah manakah yang paling mahal?
 - Fitur - fitur apa saja yang menjadi faktor penting dalam menentukan harga suatu rumah?
