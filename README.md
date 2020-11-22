@@ -1,6 +1,6 @@
 [Machine Learning Link](https://drive.google.com/drive/folders/1LgYG7lV5x594Pm6KQRFvolBa8fCYoqz-?usp=sharing)
 
-# Final-Project-Melbourne-House-Price
+# Final-Project-Melbourne-Housing-Price
 
 [![photo-1593255397598-dff69d32bb73-ixlib-rb-1-2.jpg](https://i.postimg.cc/6QtgQTK7/photo-1593255397598-dff69d32bb73-ixlib-rb-1-2.jpg)](https://postimg.cc/LJQNC9nR)
 
