@@ -23,3 +23,6 @@ Dalam kondisi seperti ini, tentu akan lebih sulit untuk para vendor atau propert
 
 ## Goals
 Dalam Project ini, saya akan menganalisis harga properti, lebih spesifiknya harga property di Melbourne dan melihat fitur fitur apa saja yang mempengaruhi harga dari suatu rumah dan membuat model machine learning dengan pendekatan Supervised Learning: Regression untuk memprediksi harga rumah berdasarkan fitur fiturnya.
+
+## License
+The dataset was taken from Kaggle under [License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
