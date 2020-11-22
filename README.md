@@ -32,11 +32,11 @@ Dalam kondisi seperti ini, tentu akan lebih sulit untuk para vendor atau propert
 Dalam Project ini, saya akan menganalisis harga properti, lebih spesifiknya harga property di Melbourne dan melihat fitur fitur apa saja yang mempengaruhi harga dari suatu rumah dan membuat model machine learning dengan pendekatan Supervised Learning: Regression untuk memprediksi harga rumah berdasarkan fitur fiturnya.
 
 ## Steps
-Handling Missing Values [File Handling Missing Values](Melbourne Housing Handling Missing Values Interpolate.ipynb)  
-Exploratory Data Analysis [EDA](MELBOURN HOUSING EDA Interpolate.ipynb)  
+Handling Missing Values ![File Handling Missing Values](/Melbourne Housing Handling Missing Values Interpolate.ipynb)  
+Exploratory Data Analysis ![EDA](/MELBOURN HOUSING EDA Interpolate.ipynb)  
 Feature Selection  
 Feature Engineering  
-Machine Learning Modelling with Support Vector Machine Regressor, Random Forest Regressor dan XGBoost Regressor, optimizing model with Scalling and Hyper Parameter Tuning [Machine Learning Modelling] (Melbourne Housing Market Supervised Learning)  
+Machine Learning Modelling with Support Vector Machine Regressor, Random Forest Regressor dan XGBoost Regressor, optimizing model with Scalling and Hyper Parameter Tuning ![Machine Learning Modelling](/Melbourne Housing Market Supervised Learning.ipynb)  
 Evaluation Metrics  
 Conclusion  
 
