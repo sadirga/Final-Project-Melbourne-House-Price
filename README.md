@@ -136,13 +136,14 @@ Pada dataset Melbourne Housing Market ini terdapat 12 kolom numerical dan 7 kolo
 **Analisis**  
 
 Dari dataset ini, terlihat bahwa median price property dari tahun ke tahun cenderung turun, namun terjadi lonjakan permintaan/demand terhadap property pada tahun 2017 hingga 92% dibanding tahun 2016. Demand/permintaan/penjualan properti di tahun 2017 meningkat drastis dari bulan Maret sampai dengan November, khususnya di bulan 9 atau September penjualan meningkat 285% dibanding tahun 2016 di bulan yang sama. Ini menandakan, Housing bubble mencapai puncak nya di tahun 2017 sebelum akhirnya demand melambat di bulan Desember 2017.  
-Jumlah kamar dan kamar mandi yang merupakan fitur utama dari sebuah rumah memang mempengaruhi harga dari sebuah rumah. Sedangkan dari jumlah space untuk parker mobil tidak terlalu berpengaruh banyak terhadap harga dari suatu rumah. Luas bangunan juga menjadi salah satu faktor yang mempengaruhi harga dari suatu rumah, umur dari sebuah rumah bukanlah faktor yang berpengaruh pada suatu harga rumah,karena sebuah rumah dapat direnovasi pada akhirnya.  
+Jumlah kamar dan kamar mandi yang merupakan fitur utama dari sebuah rumah memang mempengaruhi harga dari sebuah rumah. Sedangkan dari jumlah space untuk parker mobil tidak terlalu berpengaruh banyak terhadap harga dari suatu rumah. Luas tanah dan bangunan memang salah dua faktor penting yang mempengaruhi harga dari suatu rumah, umur dari sebuah rumah bukanlah faktor yang berpengaruh pada suatu harga rumah,karena sebuah rumah dapat direnovasi pada akhirnya.  
 Berdasarkan hasil folium map, terlihat bahwa rumah rumah yang harganya dibawah harga median atau dengan kisaran harga 500k - 1M letaknya berada jauh dari CBD, sedangkan rumah dengan kisaran harga 4 - 10M atau bisa di bilang sangat mahal berada disekitaran/dekat dengan CBD area.  
 Dari peta pebaran tersebut bahwa beberapa daerah/suburb walaupun jaraknya tidak terlalu dekat namun median price nya sangat tinggi seperti Canterbury yang median price nya sangat tinggi padahal distancenya dari CBD 9.0 km.  
 Hal ini tentu mengindikasikan bahwa jarak rumah dari CBD area adalah salah satu faktor penting dalam menentukan rumah dan daerah/suburbs dari sebuah rumah juga menentukan harga sebuah rumah.
 Dari dataset, property type house dan townhouse dengan 2 bedroom dan jarak kurang dari 10 km ke CBD yang paling affordable di Melbourne terletak di region Western dan Northern Metropolitan.
 Untuk daerah yang menjual rumah 2 kamar dan jarak ke CBD dibawah 10km dengan median price terendah terletak di Suburbs Maribyrnong Western Metropolitan.  
-East Melbourne dari region Northern Metropolitan merupakan daerah yang menjual rumah dengan 2 kamar dan jarak dari CBD area kurang dari 10 km dengan median price tertinggi.
+East Melbourne dari region Northern Metropolitan merupakan daerah yang menjual rumah dengan 2 kamar dan jarak dari CBD area kurang dari 10 km dengan median price tertinggi.  
+Singkatnya, dalam menentukan harga dari suatu properti perlu melihat dari; Jumlah kamar dan kamar mandi, Luas Tanah dan Bangunan, jarak rumah ke CBD Area dan Lokasi suburb properti tersebut.
 <br>
 
 ## SUGGESTION
