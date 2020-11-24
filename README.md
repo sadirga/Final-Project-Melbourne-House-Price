@@ -147,7 +147,7 @@ East Melbourne dari region Northern Metropolitan merupakan daerah yang menjual r
 
 ## SUGGESTION
 
-- Cek lokasi property anda terlebih dahulu, apakah lokasi anda tersebut termasuk dalam daerah suburb yang median price rumahnya memang tinggi atau tidak. Karena ini faktor penting untuk menentukan nilai harga property agar anda tidak menentukan harganya kerendahan.
+- Cek lokasi property anda terlebih dahulu, apakah lokasi anda tersebut termasuk dalam daerah suburb yang median price rumahnya memang tinggi atau tidak. Karena lokasi daerah/suburb berpengaruh terhadap harga properti.
 
 - Umur sebuah property bukanlah hal yang siginifikan untuk menentukan harga property anda.
 
