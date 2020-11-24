@@ -143,7 +143,7 @@ Hal ini tentu mengindikasikan bahwa jarak rumah dari CBD area adalah salah satu 
 Dari dataset, property type house dan townhouse dengan 2 bedroom dan jarak kurang dari 10 km ke CBD yang paling affordable di Melbourne terletak di region Western dan Northern Metropolitan.
 Untuk daerah yang menjual rumah 2 kamar dan jarak ke CBD dibawah 10km dengan median price terendah terletak di Suburbs Maribyrnong Western Metropolitan.  
 East Melbourne dari region Northern Metropolitan merupakan daerah yang menjual rumah dengan 2 kamar dan jarak dari CBD area kurang dari 10 km dengan median price tertinggi.  
-Singkatnya, dalam menentukan harga dari suatu properti perlu melihat dari; Jumlah kamar dan kamar mandi, Luas Tanah dan Bangunan, jarak rumah ke CBD Area dan Lokasi suburb properti tersebut.
+Singkatnya, dalam menentukan harga dari suatu properti perlu melihat dari; Tipe propertinya, jumlah kamar dan kamar mandi, Luas Tanah dan Bangunan, jarak rumah ke CBD Area dan Lokasi suburb properti tersebut.
 <br>
 
 ## SUGGESTION
