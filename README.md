@@ -112,11 +112,17 @@ joblib.dump(pipe_RF,'MelbourneModel')
 ```
 
 ## Dashboard
-[![Screenshot-3.png](https://i.postimg.cc/fRq4wxLy/Screenshot-3.png)](https://postimg.cc/yDRpj30C)
+[![Screenshot-3.png](https://i.postimg.cc/PJxgGkW2/Screenshot-3.png)](https://postimg.cc/r0BnW3Yr)
 
-[![Screenshot-2.png](https://i.postimg.cc/Pf0PqwC6/Screenshot-2.png)](https://postimg.cc/Jtc16tcJ)
+[![Screenshot-5.png](https://i.postimg.cc/05XgYbv3/Screenshot-5.png)](https://postimg.cc/YjFyk2hf)
 
-[![Screenshot-1.png](https://i.postimg.cc/Yq8Z31QR/Screenshot-1.png)](https://postimg.cc/3d4tr0S0)
+[![Screenshot-11.png](https://i.postimg.cc/W4vxNZmD/Screenshot-11.png)](https://postimg.cc/NKddb5zY)
+
+[![Screenshot-6.png](https://i.postimg.cc/XJ2PkDRF/Screenshot-6.png)](https://postimg.cc/8J6w1wPP)
+
+[![Screenshot-2.png](https://i.postimg.cc/GhpLRW30/Screenshot-2.png)](https://postimg.cc/ThZMqHWQ)
+
+[![Screenshot-1.png](https://i.postimg.cc/mDNLZRF4/Screenshot-1.png)](https://postimg.cc/cgCyTpmk)
 
 
 ## CONCLUSION
