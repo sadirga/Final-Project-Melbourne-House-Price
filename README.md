@@ -84,14 +84,10 @@ X_train_pipe, X_test_pipe, y_train_pipe, y_test_pipe = train_test_split(X_pipe, 
 cat_columns = ['Type','Suburb']
 num_columns = ['Rooms', 'Distance', 'Bathroom','Landsize','BuildingArea']
 
-numerical_pipeline = Pipeline([
-    ('scaler', RobustScaler())])
-
 categorical_pipeline = Pipeline([
     ('encoder', OneHotEncoder(handle_unknown='ignore'))])
 
 preprocessor = ColumnTransformer([
-    ('numeric', numerical_pipeline, num_columns),
     ('categoric', categorical_pipeline, cat_columns)
 ])
 
