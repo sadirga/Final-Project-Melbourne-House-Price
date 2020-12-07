@@ -1,7 +1,7 @@
 [Machine Learning Link](https://drive.google.com/drive/folders/1LgYG7lV5x594Pm6KQRFvolBa8fCYoqz-?usp=sharing)  
 [Dashboard Flask](https://drive.google.com/drive/folders/1LgYG7lV5x594Pm6KQRFvolBa8fCYoqz-?usp=sharing)
 
-# Final-Project-Melbourne-Housing-Price
+# Final-Project-Melbourne-Housing-Market
 
 ### by Satrio Dirgantoro (JCDS 10 Jakarta)
 
