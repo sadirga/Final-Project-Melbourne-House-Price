@@ -23,10 +23,9 @@ Dalam kondisi seperti ini, tentu akan lebih sulit untuk para vendor atau propert
 
 ## Business Questions
 - Kapan housing bubble terjadi di Melbourne?
-- Di daerah manakah rumah yang paling affordable?
-- Di daerah manakah yang harga nya paling tinggi?
+- Apakah jarak suatu property ke CBD area berpengaruh terhadap harga?
+- Di daerah manakah yang memiliki potensi penjualan tertinggi?
 - Fitur - fitur apa saja yang menjadi faktor penting dalam menentukan harga suatu rumah?
-- Berapa nilai rumah dengan 2 kamar dan jarak ke CBD kurang dari 10 km ?
 
 ## Goals
 Dalam Project ini, saya akan menganalisis harga properti, lebih spesifiknya harga property di Melbourne dan melihat fitur fitur apa saja yang mempengaruhi harga dari suatu rumah dan membuat model machine learning dengan pendekatan Supervised Learning: Regression untuk memprediksi harga rumah berdasarkan fitur fiturnya.
@@ -141,7 +140,8 @@ Dari dataset ini, terlihat bahwa median price property dari tahun ke tahun cende
 Jumlah kamar dan kamar mandi yang merupakan fitur utama dari sebuah rumah memang mempengaruhi harga dari sebuah rumah. Sedangkan dari jumlah space untuk parker mobil tidak terlalu berpengaruh banyak terhadap harga dari suatu rumah. Luas bangunan juga menjadi salah satu faktor yang mempengaruhi harga dari suatu rumah, umur dari sebuah rumah bukanlah faktor yang berpengaruh pada suatu harga rumah,karena sebuah rumah dapat direnovasi pada akhirnya.
 Berdasarkan hasil folium map, terlihat bahwa rumah rumah yang harganya dibawah harga median atau dengan kisaran harga 500k - 1M letaknya berada jauh dari CBD, sedangkan rumah dengan kisaran harga 4 - 10M atau bisa di bilang sangat mahal berada disekitaran/dekat dengan CBD area.
 Dari peta pebaran tersebut bahwa beberapa daerah/suburb walaupun jaraknya tidak terlalu dekat namun median price nya sangat tinggi seperti Canterbury yang median price nya sangat tinggi padahal distancenya dari CBD 9.0 km.
-Hal ini tentu mengindikasikan bahwa jarak rumah dari CBD area adalah salah satu faktor penting dalam menentukan rumah tetapi daerah/suburbs dari sebuah rumah merupakan hal yang lebih penting dalam menentukan harga suatu rumah. Reservoir adalah daerah suburbs yang paling diminati pembeli, karena median pricenya yang sangat terjangkau dan tempatnya yang sudah ramai/developed dan memiliki berbagai fasilitas dan tempat hiburan. Sedangkan Canterbury menjadi daerah yang paling tinggi median pricenya, karena memang daerah tersebut merupakan perumahan yang ekslusif.
+Hal ini tentu mengindikasikan bahwa jarak rumah dari CBD area adalah salah satu faktor penting dalam menentukan rumah tetapi daerah/suburbs dari sebuah rumah merupakan hal yang lebih penting dalam menentukan harga suatu rumah.  
+Reservoir adalah daerah suburbs yang paling diminati pembeli, karena median pricenya yang sangat terjangkau dan tempatnya yang sudah ramai/developed dan memiliki berbagai fasilitas dan tempat hiburan. Sedangkan Canterbury menjadi daerah yang paling tinggi median pricenya, karena memang daerah tersebut merupakan perumahan yang ekslusif.
 <br>
 
 ## SUGGESTION
